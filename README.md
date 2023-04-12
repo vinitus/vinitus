@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
----
-
 ### 자기소개
 
 👨‍💻 머신러닝 개론 강의를 수강하며, 생각을 구현하는 것이 재밌어서 개발에 푹 빠지게 되었습니다.
@@ -67,8 +65,6 @@ Here are some ideas to get you started:
 
 ## 1️⃣ Project 1
 
----
-
 ### [ 팀프로젝트 ] 추천 서비스 프로젝트 - pnut
 
 SSAFY | 2023.02 ~ 2023.04
@@ -92,8 +88,6 @@ React, react-redux, react-router, eslint, prettier, yarn, vite, JIRA
 상세 : [https://vinitus.notion.site/pnut-dc5f6d78f62a44ce9e68b6cb255db9aa](https://www.notion.so/pnut-dc5f6d78f62a44ce9e68b6cb255db9aa)
 
 ## 2️⃣ Project 2
-
----
 
 ### [ 팀프로젝트 ] IOT 프로젝트 - RIF (Recycle Is Fun)
 
@@ -119,8 +113,6 @@ React, react-redux, react-router, prettier, cra, JIRA
 
 ## 3️⃣ Project 3
 
----
-
 ### 
 
 ### [ 팀프로젝트 ] 영화 추천 서비스 - WhatToWatch
@@ -142,7 +134,5 @@ Vue, Vuex, vue-router
 상세 : [https://vinitus.notion.site/WhatToWatch-d5be35df4b85405c92ade7521dfb43e7](https://www.notion.so/WhatToWatch-d5be35df4b85405c92ade7521dfb43e7)
 
 ## 교육 내역
-
----
 
 - 2022.07 ~ 현     재    삼성 청년 SW 아카데미 8기 교육 수료 
