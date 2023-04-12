@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=javascript&logoColor=white">
-**JavaScript(ES6)**
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 **React**
 
