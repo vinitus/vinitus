@@ -47,18 +47,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
-### Backend
-
-**Django**
-
-### etc
-
-**JIRA**
-
-**GIT**
-
-**Python**
-
 ## 1️⃣ Project 1
 
 ### [ 팀프로젝트 ] 추천 서비스 프로젝트 - pnut
