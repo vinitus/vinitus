@@ -30,13 +30,9 @@ Here are some ideas to get you started:
 
 📧 **Email | tlsdnrng@gmail.com**
 
----
-
 📒 **Blog | [https://github.com/vinitus](https://github.com/vinitus)**
 
 ## Skills
-
----
 
 ### Frontend
 
