@@ -83,7 +83,7 @@ React, react-redux, react-router, eslint, prettier, yarn, vite, JIRA
 
 YOLO 모델을 활용하여 쓰레기를 분리하고 분류 정확도에 따라 리워드와 기록이 남게 됩니다. 이를 웹에서 확인하는 프로젝트입니다.
 
-![image](https://user-images.githubusercontent.com/97886013/232408568-7516c64a-dc4a-465d-a13a-99f8ac9b4ba8.png)
+![image](https://user-images.githubusercontent.com/97886013/232408862-f1e659f9-c75a-411c-be4a-a7eefb62c556.png)
 
 [ 사용 기술 및 도구 ]
 
