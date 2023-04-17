@@ -49,10 +49,9 @@ Here are some ideas to get you started:
 
 ## 1️⃣ Project 1
 
-
 ### [ 팀프로젝트 ] 추천 서비스 프로젝트 - pnut
 
-삼성 청년 SW아카데미 | 2023.02 ~ 2023.04
+삼성 청년 SW아카데미 | 2023.02 ~ 2023.04 | [상세보기](https://www.notion.so/pnut-dc5f6d78f62a44ce9e68b6cb255db9aa)
 
 설문조사 기반으로 하여 부족한 영양소를 찾고 이 영양소가 많은 음식을 추천하는 서비스입니다.
 
@@ -72,14 +71,13 @@ React, react-redux, react-router, eslint, prettier, yarn, vite, JIRA
 - dispatch의 작동방식에 대한 이해
     - dispatch는 비동기 처리를 지원하며, 인자로 들어간 결과값으로 then 체이닝이 가능함을 알게 되었습니다.
 
-[상세보기](https://www.notion.so/pnut-dc5f6d78f62a44ce9e68b6cb255db9aa)
 
 ## 2️⃣ Project 2
 
 
 ### [ 팀프로젝트 ] IOT 프로젝트 - RIF (Recycle Is Fun)
 
-삼성 청년 SW아카데미 | 2023.01 ~ 2023.02
+삼성 청년 SW아카데미 | 2023.01 ~ 2023.02 | [상세보기](https://www.notion.so/RIF-d96d70a9c24e4297b8bd593bac4eb279)
 
 YOLO 모델을 활용하여 쓰레기를 분리하고 분류 정확도에 따라 리워드와 기록이 남게 됩니다. 이를 웹에서 확인하는 프로젝트입니다.
 
@@ -99,14 +97,12 @@ React, react-redux, react-router, prettier, cra, JIRA
     - 로그인에도 생각보다 많은 공이 들어간다는 것을 알게 되었습니다.
     - Axios Interceptor를 활용하고, 에러 코드를 컨트롤하며 토큰을 재발급하였습니다.
 
-[상세보기](https://www.notion.so/RIF-d96d70a9c24e4297b8bd593bac4eb279)
 
 ## 3️⃣ Project 3
 
-
 ### [ 팀프로젝트 ] 영화 추천 서비스 - WhatToWatch
 
-삼성 청년 SW아카데미 | 2022.11 ~ 2022.11
+삼성 청년 SW아카데미 | 2022.11 ~ 2022.11 | [상세보기](https://www.notion.so/WhatToWatch-d5be35df4b85405c92ade7521dfb43e7)
 
 영화 데이터를 기반으로, 코사인 유사도 알고리즘을 활용하여 영화를 추천해주는 서비스를 개발했습니다.
 
@@ -123,7 +119,6 @@ Vue, Vuex, vue-router
 - UX를 위한 기능 구현, vue를 활용한 SPA 개발하였습니다.
 - BE와 FE를 경험해보며, 각자의 입장에 대해서 생각할 수 있는 인사이트를 갖게 되었습니다.
 
-[상세보기](https://www.notion.so/WhatToWatch-d5be35df4b85405c92ade7521dfb43e7)
 
 ## 교육 내역
 
