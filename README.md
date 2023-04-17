@@ -110,7 +110,7 @@ React, react-redux, react-router, prettier, cra, JIRA
 
 영화 데이터를 기반으로, 코사인 유사도 알고리즘을 활용하여 영화를 추천해주는 서비스를 개발했습니다.
 
-![image](https://user-images.githubusercontent.com/97886013/232408583-6e450526-cdc2-452b-b735-fb372938efc8.png)
+![image](https://user-images.githubusercontent.com/97886013/232409034-77d7d5ef-b5b8-44ec-b29b-a4d27bfe357f.png)
 
 
 [ 사용 기술 및 도구 ]
