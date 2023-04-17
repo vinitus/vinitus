@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 ## 1️⃣ Project 1
 
----
 
 ### [ 팀프로젝트 ] 추천 서비스 프로젝트 - pnut
 
@@ -57,7 +56,7 @@ Here are some ideas to get you started:
 
 설문조사 기반으로 하여 부족한 영양소를 찾고 이 영양소가 많은 음식을 추천하는 서비스입니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23b82d07-1551-4454-a27a-20bfe2e64b35/Untitled.png)
+![image](https://user-images.githubusercontent.com/97886013/232408236-ff8d2228-30d0-4c2a-8db9-e6cb7e65910a.png)
 
 [ 사용 기술 및 도구 ]
 
@@ -77,7 +76,6 @@ React, react-redux, react-router, eslint, prettier, yarn, vite, JIRA
 
 ## 2️⃣ Project 2
 
----
 
 ### [ 팀프로젝트 ] IOT 프로젝트 - RIF (Recycle Is Fun)
 
@@ -85,7 +83,7 @@ React, react-redux, react-router, eslint, prettier, yarn, vite, JIRA
 
 YOLO 모델을 활용하여 쓰레기를 분리하고 분류 정확도에 따라 리워드와 기록이 남게 됩니다. 이를 웹에서 확인하는 프로젝트입니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2eb23592-e37d-4ad4-9d0e-691e36c652e2/Untitled.png)
+![image](https://user-images.githubusercontent.com/97886013/232408568-7516c64a-dc4a-465d-a13a-99f8ac9b4ba8.png)
 
 [ 사용 기술 및 도구 ]
 
@@ -105,7 +103,6 @@ React, react-redux, react-router, prettier, cra, JIRA
 
 ## 3️⃣ Project 3
 
----
 
 ### [ 팀프로젝트 ] 영화 추천 서비스 - WhatToWatch
 
@@ -113,7 +110,8 @@ React, react-redux, react-router, prettier, cra, JIRA
 
 영화 데이터를 기반으로, 코사인 유사도 알고리즘을 활용하여 영화를 추천해주는 서비스를 개발했습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea9a7eda-3003-44a2-8e00-6ba5f55e4456/Untitled.png)
+![image](https://user-images.githubusercontent.com/97886013/232408583-6e450526-cdc2-452b-b735-fb372938efc8.png)
+
 
 [ 사용 기술 및 도구 ]
 
@@ -129,12 +127,8 @@ Vue, Vuex, vue-router
 
 ## 교육 내역
 
----
-
 - 2022.07 ~ 현     재    삼성 청년 SW 아카데미 8기 교육 수료 중
 
 ## 경력
 
----
-
-- 🥲
+- 😥
