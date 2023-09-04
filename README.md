@@ -2,8 +2,6 @@
 
 ## 📣About Me
 
----
-
 ### 자기소개
 
 👨‍💻 다듬는 것에 강합니다.
@@ -16,34 +14,31 @@
 
 📘 포스팅과 잔디를 심으며 꾸준히 공부하려고 노력합니다.
 
+<br />
+
 ### Contact
 
 📧 **Email | tlsdnrng@gmail.com**
-
----
 
 🌃 **Github |** https://github.com/vinitus
 
 **📒 Blog | https://mystacks.tistory.com/**
 
-## 🔨 Skills
+<br />
 
----
+## 🔨 Skills
 
 ### Frontend
 
-![javascript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript) **TypeScript** **React** **HTML5** **CSS**
-
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-
 
 ### Collaboration
 
 **JIRA** **GIT**
 
-## 🗺 Project
+<br />
 
----
+## 🗺 Project
 
 ### MyBlog **- 마크다운을 HTML로**
 
@@ -65,6 +60,8 @@
 
 - 함수형 프로그래밍을 읽고, 더 나은 코드를 위한 리팩토링
 - 생각하고, 로직 구현하기. 안되는 이유를 찾고 적어두기
+
+<br />
 
 ### **ssafvey - C to C 설문조사 플랫폼**
 
@@ -89,6 +86,8 @@
 - 코드 리뷰를 통한 잘못된 습관
 - 기술 도입에 있어서 고려해야 할 점들
 
+<br />
+
 ### Pnut - 영양소 기반 음식 추천 플랫폼
 
 2023.02 ~ 2023.04 (6주, 6인)  |  https://github.com/vinitus/pnut |  [상세보기](https://www.notion.so/pnut-dc5f6d78f62a44ce9e68b6cb255db9aa?pvs=21)
@@ -111,6 +110,8 @@
 - 어떻게 하면 팀원들과 더 나은 소통을 할 수 있을까?
 - 프론트엔드 팀장으로서의 책임감
 
+<br />
+
 ### RIF - 분리수거 재고 프로젝트
 
 2023.01 ~ 2023.02 (6주, 6인)  | https://github.com/vinitus/rif |  [상세보기](https://www.notion.so/RIF-d96d70a9c24e4297b8bd593bac4eb279?pvs=21)
@@ -132,6 +133,8 @@
 
 - 지식의 차이로 소통이 힘든 부분을 극복하기 위한 노력
 - BE와 FE는 어떻게 소통해야할까
+
+<br />
 
 ### 뭐봄 - 영화 추천 서비스
 
@@ -157,12 +160,8 @@
 
 ## 교육 내역
 
----
-
 - 2022.07 ~ 2023.06    삼성 청년 SW 아카데미 8기 교육 수료
 
 ## 경력
-
----
 
 - 🥲
