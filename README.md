@@ -32,9 +32,13 @@
 
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/WEBPACK-blue?style=for-the-badge&logo=webpack&logoColor=white">
 
+### Backend
+
+<img src="https://img.shields.io/badge/django-blue?style=for-the-badge&logo=django&logoColor=white">
+
 ### Collaboration
 
-**JIRA** **GIT**
+<img src="https://img.shields.io/badge/jira-white?style=for-the-badge&logo=jira&logoColor=black"> <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=black">
 
 <br />
 
