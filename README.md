@@ -30,11 +30,74 @@
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/WEBPACK-blue?style=for-the-badge&logo=webpack&logoColor=white">
 
 ### Collaboration
 
 **JIRA** **GIT**
+
+<br />
+
+### 저에 대해서 눈여겨 보실 점
+
+1. Next.JS 13
+
+   [my-blog](https://github.com/vinitus/my-blog)
+
+   Next.JS 13을 활용하여 Server Component, SSR, App Routing에 대한 이해를 가지고 있습니다.
+
+2. React에 대한 이해도
+
+   [리액트에서 ajax 요청 다루기](https://mystacks.tistory.com/112)
+
+   [useState(함수)???](https://mystacks.tistory.com/100)
+
+   [리액트 UI 트리](https://mystacks.tistory.com/75)
+
+   [DOM과 React의 가상 돔](https://mystacks.tistory.com/78)
+
+   [React Router 만들어보기](https://github.com/vinitus/make-router)
+
+3. 코드를 읽을 줄 아는 능력
+
+   [react router의 원리](https://mystacks.tistory.com/110)
+
+   [Next.JS에서 yarn start를 하면 일어나는 일](https://mystacks.tistory.com/139)
+
+   [yarn dev를 하면 vite에서 일어나는 일](https://mystacks.tistory.com/109)
+
+4. 꾸준한 학습
+
+   5개월간 3개의 팀 프로젝트를 6주씩 진행하며 기획부터 구현까지 하였습니다. 이 과정 속에서도, 블로그 글을 꾸준하게 작성하고, 의미있는 학습을 진행하고자 하였습니다.
+
+   최근에는 블로그보다는 github에 잔디를 심으며, 의미있는 학습을 진행하고 있습니다.
+   
+5. 차근차근 문제를 해결해나가는 과정
+   
+   [my-blog의 상세보기](https://vinitus.notion.site/vinitus/My-Blog-a00f3db378274ff8aeccc11fc7cf20c4)
+
+   어떻게 문제를 해결해나갔는지 확인할 수 있게 정리해둔 notion 페이지입니다.
+
+6. JavaScript에 대한 이해
+
+   흔한 예제를 통한 이해가 아니라, 제가 직접 코드를 작성하고 이해한 것을 바탕으로 진짜 그렇게 작동하는가를 중점으로 공부하였습니다.
+   
+   [promise, 그리고 마이크로태스크 큐](https://mystacks.tistory.com/68)
+   
+   [Javacript의 비동기는 정말 비동기일까?](https://mystacks.tistory.com/72)
+   
+   [Javascript의 비동기 처리](https://mystacks.tistory.com/71)
+   
+   [자바스크립트 iterator와 iterable](https://mystacks.tistory.com/93)
+   
+   [promise 용어 정리 - states and fates](https://mystacks.tistory.com/67)
+   
+   [모듈, 번들러, 모듈 번들러의 개념과 등장한 이유](https://mystacks.tistory.com/111)
+
+8. etc
+
+   라이트 하우스 개선 경험
+   nginx 설정 경험
 
 <br />
 
