@@ -42,7 +42,7 @@
 
 1. Next.JS 13
 
-   [my-blog](https://github.com/vinitus/my-blog)
+   [개인 프로젝트 my-blog](https://github.com/vinitus/my-blog)
 
    Next.JS 13을 활용하여 Server Component, SSR, App Routing에 대한 이해를 가지고 있습니다.
 
@@ -98,6 +98,7 @@
 
    라이트 하우스 개선 경험
    nginx 설정 경험
+   빠르게 구현할 수 있는 능력
 
 <br />
 
